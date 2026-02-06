@@ -1,0 +1,5 @@
+#pragma once
+
+enum FKeys: short { K_F1 = 59, K_F2, K_F3, K_F4, K_F5, K_F6, K_F7, K_F8, K_F9, K_F10 };
+
+enum NavKeys: short { K_UP = 72, K_LEFT = 75, K_RIGHT = 77, K_DOWN = 80, K_HOME = 71, K_END = 79 };
